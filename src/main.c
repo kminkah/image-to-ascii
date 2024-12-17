@@ -9,6 +9,7 @@
 #include "utils.h"
 
 const int maxAsciiCharacters = 22;
+
 const char asciiSpectrum[maxAsciiCharacters + 1] = "$@%&#0XxoO+*^=~-:\"'.` ";
 
 void printUsage(char *s) {
